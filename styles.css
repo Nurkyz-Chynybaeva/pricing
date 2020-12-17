@@ -177,9 +177,7 @@ footer{
  margin: 0 2%;
  justify-content: space-between;
 }
-.box-1{
 
-}
 .numeral{
   font-size: 13px;
   color: #6c757d;
@@ -206,3 +204,9 @@ h4{
   list-style-type: none;
   color: #6c757d;
 }
+
+.t:hover{
+  
+    text-decoration: underline  #6c757d;
+  }
+  
