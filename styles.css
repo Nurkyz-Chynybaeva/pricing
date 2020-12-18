@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+header{
+  margin: 60px 0;
+}
+
 body{
  max-width: 100%;
   display: flex;
@@ -79,7 +83,7 @@ margin: 40px 420px;
 }
 .pricing{
   font-size: 55px;
-  margin: 30px 0;
+  margin-bottom: 20px ;
 }
 .main-p{
   font-size: 20px;
